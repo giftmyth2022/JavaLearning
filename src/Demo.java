@@ -5,6 +5,7 @@ public class Demo {
         ArrayList arr = new ArrayList();
         arr.add("ADD");
         arr.add("CCC");
+        arr.add("BBB");
 
     }
 }
